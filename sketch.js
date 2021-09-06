@@ -54,9 +54,6 @@ apple.scale=0.07;
 apple.velocityY = 3;
 apple.lifetime = 150;
 
-//Extra code
-add
-
 }
 
 function createOrange() {
